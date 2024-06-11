@@ -1,3 +1,2 @@
 # github-repo
-created on github
-created by shahaji.
+created on github by shahji.
